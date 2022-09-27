@@ -32,6 +32,10 @@
   border: none;
   position: absolute;
   bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }
 .btn-cart:hover {
   background-color: #face8c;
